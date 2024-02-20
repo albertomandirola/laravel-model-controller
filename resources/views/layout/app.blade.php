@@ -19,7 +19,8 @@
 
 <body>
 
-    <main class="pt-3 bg-dark">
+    <main class="pt-3 ">
+        prova
         @yield('content')
     </main>
 
